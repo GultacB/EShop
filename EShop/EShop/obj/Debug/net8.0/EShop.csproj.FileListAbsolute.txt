@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\EShop\EShop\bin\Debug\net8.0\EShop.exe
+C:\Users\User\source\repos\EShop\EShop\bin\Debug\net8.0\EShop.deps.json
+C:\Users\User\source\repos\EShop\EShop\bin\Debug\net8.0\EShop.runtimeconfig.json
+C:\Users\User\source\repos\EShop\EShop\bin\Debug\net8.0\EShop.dll
+C:\Users\User\source\repos\EShop\EShop\bin\Debug\net8.0\EShop.pdb
+C:\Users\User\source\repos\EShop\EShop\obj\Debug\net8.0\EShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EShop\EShop\obj\Debug\net8.0\EShop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EShop\EShop\obj\Debug\net8.0\EShop.AssemblyInfo.cs
+C:\Users\User\source\repos\EShop\EShop\obj\Debug\net8.0\EShop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EShop\EShop\obj\Debug\net8.0\EShop.sourcelink.json
+C:\Users\User\source\repos\EShop\EShop\obj\Debug\net8.0\EShop.dll
+C:\Users\User\source\repos\EShop\EShop\obj\Debug\net8.0\refint\EShop.dll
+C:\Users\User\source\repos\EShop\EShop\obj\Debug\net8.0\EShop.pdb
+C:\Users\User\source\repos\EShop\EShop\obj\Debug\net8.0\EShop.genruntimeconfig.cache
+C:\Users\User\source\repos\EShop\EShop\obj\Debug\net8.0\ref\EShop.dll
